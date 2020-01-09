@@ -1,5 +1,5 @@
 {
-  "name": "await-sleep",
+  "name": "@sleep",
   "version": "0.0.1",
   "description": "Blocking sleep/delay with async/await",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sqren/await-sleep.git"
+    "url": "git+https://github.com/renwu-cool/-sleep.git"
   },
   "keywords": [
     "sleep",
@@ -19,10 +19,10 @@
     "wait",
     "blocking"
   ],
-  "author": "Søren Louv <sorenlouv@gmail.com>",
+  "author": "renwu <i@renwu.cool>",
   "bugs": {
-    "url": "https://github.com/sqren/await-sleep/issues"
+    "url": "https://github.com/renwu-cool/-sleep"
   },
-  "homepage": "https://github.com/sqren/await-sleep#readme",
-  "license": "ISC"
+  "homepage": "https://github.com/renwu-cool/-sleep#readme",
+  "license": "GPL"
 }
